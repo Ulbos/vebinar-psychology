@@ -99,6 +99,8 @@ html{
     font-weight: 700;
     text-transform: uppercase;
     padding-left: 10px;
+    width: 60%;
+    text-align: center;
 margin: 0;
 }
 .title-color{
